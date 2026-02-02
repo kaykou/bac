@@ -1,0 +1,8 @@
+{
+  "name": "Bac physique chimie",
+  "description": "A premium educational platform for physics teachers to stream classes, analyze experiments with AI, and manage coursework.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
